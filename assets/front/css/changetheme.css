@@ -1,0 +1,67 @@
+/*--
+Author: Muhamad Rezki
+Author Email: Muhamad.rezki@students.uin-suska.ac.id
+--*/
+
+/*Change Theme*/
+.pink {
+    background: #f8bbd0;
+}
+.green {
+    background: #84904b;
+}
+.blue {
+    background: #81d4fa;
+}
+.yellow {
+    background: #fff176;
+}
+.black {
+    background: #777;
+}
+.red {
+    background: #dc0e0ebd;
+}
+
+html.pink .warnatitle h1{color:#f48fb1;border-color:#f48fb1;}
+html.green .warnatitle h1{color:#84904b;border-color:#84904b;}
+html.blue .warnatitle h1{color:#81d4fa;border-color:#81d4fa;}
+html.yellow .warnatitle h1{color:#e8d94f;border-color:#e8d94f;}
+html.black .warnatitle h1{color:#777;border-color:#777;}
+html.red .warnatitle h1{color:#dc0e0ebd;border-color:#dc0e0ebd;}
+
+html.pink .navcolor .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus, .pink .navcolor .hvr-bounce-to-bottom:before{background-color:#f48fb1;}
+html.green .navcolor .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus, .green .navcolor .hvr-bounce-to-bottom:before{background-color:#84904b;}
+html.blue .navcolor .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus, .blue .navcolor .hvr-bounce-to-bottom:before{background-color:#81d4fa;}
+html.yellow .navcolor .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus, .yellow .navcolor .hvr-bounce-to-bottom:before{background-color:#fff176;}
+html.black .navcolor .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus, .black .navcolor .hvr-bounce-to-bottom:before{background-color:#777;}
+html.red .navcolor .navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus, .red .navcolor .hvr-bounce-to-bottom:before{background-color:#dc0e0ebd;}
+
+html.pink .titlecolor .title a, .pink .titlecolor h3{color:#f48fb1;}
+html.green .titlecolor .title a, .green .titlecolor h3{color:#84904b;}
+html.blue .titlecolor .title a, .blue .titlecolor h3{color:#81d4fa;}
+html.yellow .titlecolor .title a, .yellow .titlecolor h3{color:#fff176;}
+html.black .titlecolor .title a, .black .titlecolor h3{color:#777;}
+html.red .titlecolor .title a, .red .titlecolor h3{color:#dc0e0ebd;}
+
+html.pink .footercolor, .pink .footer-grid h3.title, .pink .footer-grid h3.title a, .pink .footer-grid ul li, .pink .footer-grid ul li a{background-color:#f8bbd0;border-color: #777; color: #777;}
+html.green .footercolor, .green .footer-grid h3.title, .green .footer-grid h3.title a, .green .footer-grid ul li, .green .footer-grid ul li a{background-color:#F9F2D2;border-color: #E8DA97; color: #A7913F;}
+html.blue .footercolor, .blue .footer-grid h3.title, .blue .footer-grid h3.title a, .blue .footer-grid ul li, .blue .footer-grid ul li a{background-color:#b3e5fc;border-color: #2b2525c9; color: #2b2525c9;}
+html.yellow .footercolor, .yellow .footer-grid h3.title, .yellow .footer-grid h3.title a, .yellow .footer-grid ul li, .yellow .footer-grid ul li a{background-color:#fff59d;border-color: #2b2525c9; color: #2b2525c9;}
+html.black .footercolor, .black .footer-grid h3.title, .black .footer-grid h3.title a, .black .footer-grid ul li, .black .footer-grid ul li a{background-color:#979090;border-color: white; color: white;}
+html.red .footercolor, .red .footer-grid h3.title, .red .footer-grid h3.title a, .red .footer-grid ul li, .red .footer-grid ul li a{background-color:#F08080;border-color: black; color: black;}
+
+
+html.pink .footercolor2, .pink .copy p, .pink .copy a{background-color:#f48fb1; color: #777;}
+html.green .footercolor2,  .green .copy p, .green .copy a{background-color:#84904b;color: white;}
+html.blue .footercolor2, .blue .copy p, .blue .copy a{background-color:#81d4fa; color: #2b2525c9;}
+html.yellow .footercolor2, .yellow .copy p, .yellow .copy a{background-color:#fff176; color: #2b2525c9;}
+html.black .footercolor2, .black .copy p, .black .copy a{background-color:#777; color: white;}
+html.red .footercolor2, .red .copy p, .red .copy a{background-color:#e54c4c; color: black;}
+
+html.pink .btncolor .btn-1b:hover{background:#f48fb1;}
+html.green .btncolor .btn-1b:hover{background:#84904b;}
+html.blue .btncolor .btn-1b:hover{background:#81d4fa;}
+html.yellow .btncolor .btn-1b:hover{background:#fff176;}
+html.black .btncolor .btn-1b:hover{background:#777;}
+html.red .btncolor .btn-1b:hover{background:#dc0e0ebd;}
